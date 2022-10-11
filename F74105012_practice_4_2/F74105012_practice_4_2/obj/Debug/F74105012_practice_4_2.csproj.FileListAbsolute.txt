@@ -1,0 +1,10 @@
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\bin\Debug\F74105012_practice_4_1.exe.config
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\bin\Debug\F74105012_practice_4_1.exe
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\bin\Debug\F74105012_practice_4_1.pdb
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_2.csprojAssemblyReference.cache
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_1.Properties.Resources.resources
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_2.csproj.GenerateResource.cache
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_2.csproj.CoreCompileInputs.cache
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_1.exe
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_1.pdb
+C:\Users\chaot\Desktop\Ncku\大二（上）\視窗\Homework\F74105012_practice_4_2\F74105012_practice_4_2\obj\Debug\F74105012_practice_4_2.Form1.resources
